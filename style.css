@@ -1,0 +1,12 @@
+.card{
+    width: 40%;
+    margin-left: 5%;
+}
+body{
+    background-image: url(images/balloons-g11f23421f_1920.png);
+    background-size: cover;
+    /* background-position: center;  */
+    background-repeat: no-repeat;
+   
+
+}
